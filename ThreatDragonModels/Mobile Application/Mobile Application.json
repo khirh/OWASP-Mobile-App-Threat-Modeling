@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Mobile Application",
+    "owner": "KhirH",
+    "description": "TBA"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Login",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "NA"
+  }
+}
